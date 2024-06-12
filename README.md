@@ -1,12 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&animation=fadeIn&section=footer&text=🚗🚘🚛🚢&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&animation=fadeIn&section=footer&fontAlign=70)
 <div align="left">
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdkssud8150%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flimhyungtae%2F&count_bg=%232AB4E5D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flimhyungtae)](https://hits.seeyoufarm.com)
 
-**Postdoc at SPARK Lab, MIT**
-- I'm Hyungtae Lim, a researcher who studies geoemetry
-
+I'm Hyungtae Lim, a dedicated researcher specializing in robotic perception and SLAM, who aims to advance pervasive robotics.
 
 ##
 
