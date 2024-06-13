@@ -6,10 +6,10 @@ I'm Hyungtae Lim, a dedicated researcher specializing in robotic perception and 
 ##
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=limhyungtae&show_icons=true&theme=tokyonight" width = "56%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=limhyungtae&show_icons=true&theme=tokyonight&count_private=true" width = "56%"/>
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limhyungtae&layout=compact&theme=tokyonight" width="42.5% />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limhyungtae&layout=compact&theme=tokyonight&count_private=true&hide=Makefile" width="42.5% />
 </a>
 
 <a href="s">
