@@ -5,4 +5,4 @@
 [![Research Statement1](https://img.shields.io/badge/Research%20Statement1-darkorange?style=flat-square&logo=ResearchGate&logoColor=white&link=https://github.com/LimHyungTae/LimHyungTae.github.io/blob/master/cv_and_research_statement/research_statement.pdf)](https://github.com/LimHyungTae/LimHyungTae.github.io/blob/master/cv_and_research_statement/research_statement.pdf)
 [![Research Statement2](https://img.shields.io/badge/Research%20Statement2-forestgreen?style=flat-square&logo=arXiv&logoColor=white&link=https://arxiv.org/abs/2405.11176)](https://arxiv.org/abs/2405.11176)
 
-I'm Hyungtae Lim, a dedicated researcher who specializes in robotic perception and SLAM and aims to advance pervasive robotics.
+I'm Hyungtae Lim, a dedicated researcher, specialized in robotic perception and SLAM, and aims to advance pervasive robotics.
