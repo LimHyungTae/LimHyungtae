@@ -7,13 +7,23 @@
 
 I'm Hyungtae Lim, a dedicated researcher who studies robotic perception and SLAM for pervasive robotics.
 
+<!-- GitHub Readme Stats - User Profile Information -->
+<!-- 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=limhyungtae&show_icons=true&theme=tokyonight" width = "56%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=limhyungtae&show_icons=true&theme=tokyonight" width="56%"/>
 </a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limhyungtae&layout=compact&theme=tokyonight" width="42.5% />
-</a>
+-->
 
+<!-- GitHub Readme Stats - Most Used Languages -->
+<!-- 
 <a href="s">
-<img src=https://github-profile-trophy.vercel.app/?username=limhyungtae&theme=flat&column=9(https://github.com/minwoo0611/)/ width="110%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limhyungtae&layout=compact&theme=tokyonight" width="42.5%"/>
 </a>
+-->
+
+<!-- GitHub Profile Trophy Display -->
+<!-- 
+<a href="s">
+  <img src="https://github-profile-trophy.vercel.app/?username=limhyungtae&theme=flat&column=9" width="110%"/>
+</a>
+-->
