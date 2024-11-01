@@ -6,3 +6,14 @@
 [![Research Statement2](https://img.shields.io/badge/Research%20Statement2-forestgreen?style=flat-square&logo=arXiv&logoColor=white&link=https://arxiv.org/abs/2405.11176)](https://arxiv.org/abs/2405.11176)
 
 I'm Hyungtae Lim, a dedicated researcher who studies robotic perception and SLAM for pervasive robotics.
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=limhyungtae&show_icons=true&theme=tokyonight" width = "56%"/>
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limhyungtae&layout=compact&theme=tokyonight" width="42.5% />
+</a>
+
+<a href="s">
+<img src=https://github-profile-trophy.vercel.app/?username=limhyungtae&theme=flat&column=9(https://github.com/minwoo0611/)/ width="110%">
+</a>
