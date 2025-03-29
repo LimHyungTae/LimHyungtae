@@ -24,6 +24,6 @@ I'm Hyungtae Lim, a dedicated researcher who studies robotic perception and SLAM
 <!-- GitHub Profile Trophy Display -->
 
 <a href="s">
-  <img src="https://github-profile-trophy.vercel.app/?username=limhyungtae&theme=flat&rank=A&column=8" width="110%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=limhyungtae&theme=flat&column=9" width="110%"/>
 </a>
 
